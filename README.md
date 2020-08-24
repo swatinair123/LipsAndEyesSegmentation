@@ -25,7 +25,7 @@ python 3.6 ,openCv
 Steps to Run the code :
 1.Open the Ubuntu terminal
 2.Go to LipsAndEyesSegmentation folder and run the below command .
-  python3 main.py
+  python3 EyesAndLipsSegmentation.py
 
 Test Images:
 Test Images are in the TestImages folder
