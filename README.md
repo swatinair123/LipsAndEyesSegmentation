@@ -23,15 +23,15 @@ python 3.6 ,openCv
 (Current code is tested on Ubuntu 18.04.4)
 
 Steps to Run the code :
-1.Open the Ubuntu terminal
-2.Go to LipsAndEyesSegmentation folder and run the below command .
-  python3 EyesAndLipsSegmentation.py
+1.Open the Ubuntu terminal\
+2.Run the below command from the downloaded code repo.\
+  python3 EyesAndLipsSegmentation.py\
 
-Test Images:
-Test Images are in the TestImages folder
+Test Images:\
+Test Images are in the TestImages folder\
 
-Results
-The segmented results are stored in Results folder in the LipsAndEyesSegmentation repo.
+Results\
+The segmented results are stored in Results folder in the LipsAndEyesSegmentation repo.\
 
 Validation Results :
 
@@ -48,6 +48,6 @@ EyesAndLipsSegmentation_singleImage:
 
 Image segmentation done for single image .
 
-Result
+Result\
 https://github.com/swatinair123/LipsAndEyesSegmentation/blob/master/EyesAndLipsSegmentation_singleImage/Results/Segmented1.jpg
 
