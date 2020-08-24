@@ -44,3 +44,10 @@ meanAbsDistance for 6.jpg is 15.61645\
 meanAbsDistance for 7.jpg is 3.8255875\
 meanAbsDistance for 8.jpg is 1.888025
 
+EyesAndLipsSegmentation_singleImage:
+
+Image segmentation done for single image .
+
+Result
+https://github.com/swatinair123/LipsAndEyesSegmentation/blob/master/EyesAndLipsSegmentation_singleImage/Results/Segmented1.jpg
+
