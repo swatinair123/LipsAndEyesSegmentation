@@ -7,7 +7,7 @@ lower = np.array([8, 48, 80], dtype = "uint8")
 upper = np.array([20, 255, 255], dtype = "uint8")
 
 for i in range(1,9) :
-	#/home/mahathi/Dev/EyesAndLipsSegmentation/TestImages/1_GT.jpg
+	
 	frame= cv2.imread("TestImages/"+str(i)+".jpg")
 	frame=cv2.resize(frame,(400,400))
 	#framergb2bgrba=cv2.cvtColor(frame,cv2.COLOR_BGR2RGBA)
