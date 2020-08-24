@@ -1,4 +1,4 @@
-# LipsAndEyesSegmentation
+# Segmentation of Eyes and Lips
 
 Problem Description:
 
