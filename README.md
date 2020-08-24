@@ -33,3 +33,14 @@ Test Images are in the TestImages folder
 Results
 The segmented results are stored in Results folder in the LipsAndEyesSegmentation repo.
 
+Validation Results :
+
+meanAbsDistance for 1.jpg is 5.53504375
+meanAbsDistance for 2.jpg is 3.3482375
+meanAbsDistance for 3.jpg is 12.0180125
+meanAbsDistance for 4.jpg is 29.65635
+meanAbsDistance for 5.jpg is 3.6148375
+meanAbsDistance for 6.jpg is 15.61645
+meanAbsDistance for 7.jpg is 3.8255875
+meanAbsDistance for 8.jpg is 1.888025
+
