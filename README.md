@@ -14,8 +14,8 @@ Algorithm :
 7. Detect eyes pixels by detecting the pixels which is satisfying the If condition values and set it to 255(SO that we dont miss out on any eyes pixels).
 8. Eliminate all the pixels other then the centre area pixels ,since eyes and lips are located in the center of the face .
 9. Perform Erosion and dilation on the skin mask obtained .
-10.Use a Gaussian filter to remove any noises in the mask .
-11.Validation is done Using Mean Accuracy Distance .
+10. Use a Gaussian filter to remove any noises in the mask .
+11. Validation is done Using Mean Accuracy Distance .
  
 Prerequisites for running the code :
 
